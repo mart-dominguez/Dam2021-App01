@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App01</string>
+    <string name="act1_lbl1">Etiqueta 1</string>
+    <string name="act1_lbl2">Texto 2</string>
+    <string name="act1_tx2_hint">Ingrese un texto en muchas lineas</string>
+</resources>
